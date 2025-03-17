@@ -13,9 +13,7 @@
     "@astrojs/mdx": "^4.1.0",
     "@astrojs/rss": "^4.0.11",
     "@astrojs/sitemap": "^3.2.1",
+    "@rollup/rollup-win32-x64-msvc": "^4.36.0",
     "astro": "^5.4.2"
-  },
-  "optionalDependencies": {
-    "@rollup/rollup-linux-x64-gnu": "4.36.0"
   }
 }
