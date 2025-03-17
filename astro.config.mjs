@@ -10,7 +10,9 @@ export default defineConfig({
   site: 'https://example.com',
   integrations: [mdx(), sitemap()],
 
-  output: 'static',
+  output: 'server',
 
-  adapter: cloudflare(),
+  adapter: cloudflare({
+    imageService: 'cloudflare'
+ }),
 });
