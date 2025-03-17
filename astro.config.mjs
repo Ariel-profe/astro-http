@@ -3,7 +3,7 @@ import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 
-import cloudflare from '@astrojs/cloudflare';
+import vercel from '@astrojs/vercel';
 
 // https://astro.build/config
 export default defineConfig({
@@ -11,8 +11,5 @@ export default defineConfig({
   integrations: [mdx(), sitemap()],
 
   output: 'server',
-
-  adapter: cloudflare({
-    imageService: 'cloudflare'
- }),
+  adapter: vercel(),
 });
