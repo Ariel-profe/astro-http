@@ -1,9 +1,9 @@
-import { c as createAstro, a as createComponent, e as addAttribute, f as renderTemplate, m as maybeRenderHead, r as renderComponent } from './astro/server_BMn6c_xN.mjs';
+import { c as createAstro, a as createComponent, e as addAttribute, f as renderTemplate, m as maybeRenderHead, r as renderComponent } from './astro/server_BktJkQJo.mjs';
 import 'kleur/colors';
 import 'clsx';
 /* empty css                         */
 import { a as SITE_TITLE } from './consts_BUCA18RE.mjs';
-import { $ as $$HeaderLink } from './HeaderLink_ybCI9AON.mjs';
+import { $ as $$HeaderLink } from './HeaderLink_DC2-pohg.mjs';
 
 const $$Astro$2 = createAstro("https://example.com");
 const $$BaseHead = createComponent(($$result, $$props, $$slots) => {

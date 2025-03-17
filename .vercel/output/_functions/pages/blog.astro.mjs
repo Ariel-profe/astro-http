@@ -1,9 +1,9 @@
-import { a as createComponent, r as renderComponent, b as renderHead, e as addAttribute, f as renderTemplate } from '../chunks/astro/server_BMn6c_xN.mjs';
+import { a as createComponent, r as renderComponent, b as renderHead, e as addAttribute, f as renderTemplate } from '../chunks/astro/server_BktJkQJo.mjs';
 import 'kleur/colors';
-import { $ as $$BaseHead, a as $$Header, b as $$Footer } from '../chunks/Footer_DwSpg3Pm.mjs';
+import { $ as $$BaseHead, a as $$Header, b as $$Footer } from '../chunks/Footer_CmTd-dHx.mjs';
 import { S as SITE_DESCRIPTION, a as SITE_TITLE } from '../chunks/consts_BUCA18RE.mjs';
-import { a as getCollection } from '../chunks/_astro_content_CYvkwawD.mjs';
-import { $ as $$FormattedDate } from '../chunks/FormattedDate_DyBT72qR.mjs';
+import { a as getCollection } from '../chunks/_astro_content_Dm_2nr2F.mjs';
+import { $ as $$FormattedDate } from '../chunks/FormattedDate_RGtAIhD1.mjs';
 /* empty css                                 */
 export { renderers } from '../renderers.mjs';
 

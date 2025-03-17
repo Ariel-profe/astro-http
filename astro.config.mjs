@@ -11,5 +11,11 @@ export default defineConfig({
   integrations: [mdx(), sitemap()],
 
   output: 'server',
-  adapter: vercel(),
+  adapter: vercel({
+    webAnalytics: {
+      enabled: true,
+    },
+    imageService: true,
+    devImageService: 'sharp',
+  }),
 });

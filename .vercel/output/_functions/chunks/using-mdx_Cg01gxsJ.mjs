@@ -1,5 +1,5 @@
-import { g as createVNode, F as Fragment, _ as __astro_tag_component__ } from './astro/server_BMn6c_xN.mjs';
-import { $ as $$HeaderLink } from './HeaderLink_ybCI9AON.mjs';
+import { g as createVNode, F as Fragment, _ as __astro_tag_component__ } from './astro/server_BktJkQJo.mjs';
+import { $ as $$HeaderLink } from './HeaderLink_DC2-pohg.mjs';
 import 'clsx';
 
 const frontmatter = {

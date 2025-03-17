@@ -1,4 +1,4 @@
-import { c as createAstro, a as createComponent, m as maybeRenderHead, e as addAttribute, s as spreadAttributes, d as renderSlot, f as renderTemplate } from './astro/server_BMn6c_xN.mjs';
+import { c as createAstro, a as createComponent, m as maybeRenderHead, e as addAttribute, s as spreadAttributes, d as renderSlot, f as renderTemplate } from './astro/server_BktJkQJo.mjs';
 /* empty css                                                                  */
 import 'clsx';
 

@@ -1,6 +1,6 @@
-import { c as createAstro, a as createComponent, r as renderComponent, b as renderHead, f as renderTemplate } from '../chunks/astro/server_BMn6c_xN.mjs';
+import { c as createAstro, a as createComponent, r as renderComponent, b as renderHead, f as renderTemplate } from '../chunks/astro/server_BktJkQJo.mjs';
 import 'kleur/colors';
-import { $ as $$BaseHead, a as $$Header, b as $$Footer } from '../chunks/Footer_DwSpg3Pm.mjs';
+import { $ as $$BaseHead, a as $$Header, b as $$Footer } from '../chunks/Footer_CmTd-dHx.mjs';
 import { S as SITE_DESCRIPTION, a as SITE_TITLE } from '../chunks/consts_BUCA18RE.mjs';
 export { renderers } from '../renderers.mjs';
 
